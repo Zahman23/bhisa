@@ -1,0 +1,343 @@
+[
+  {
+    "id": "JKT-BDG-0800-Blue",
+    "operator": "Blue Shuttle",
+    "origin": "Jakarta",
+    "destination": "Bandung",
+    "tanggal": "2025-09-26",
+    "departures": [
+      {
+        "id": "BW-01-0700",
+        "berangkat": "07:00",
+        "tiba": "10:00",
+        "durasiMenit": 180,
+        "sisaKursi": 8,
+        "harga": 120000,
+        "pickup": "Slipi",
+        "dropoff": "Pasteur"
+      },
+      {
+        "id": "BW-02-0900",
+        "berangkat": "09:00",
+        "tiba": "12:20",
+        "durasiMenit": 200,
+        "sisaKursi": 2,
+        "harga": 140000,
+        "pickup": "Cawang",
+        "dropoff": "Dago"
+      },
+      {
+        "id": "BW-03-0900",
+        "berangkat": "08:00",
+        "tiba": "12:20",
+        "durasiMenit": 200,
+        "sisaKursi": 16,
+        "harga": 100000,
+        "pickup": "Cawang",
+        "dropoff": "Lw-panjang"
+      }
+    ]
+  },
+  {
+    "id": "JKT-BDG-0800-Blue",
+    "operator": "Blue Shuttle",
+    "origin": "Jakarta",
+    "destination": "Bandung",
+    "tanggal": "2025-09-27",
+    "departures": [
+      {
+        "id": "BW-01-0700",
+        "berangkat": "07:00",
+        "tiba": "10:00",
+        "durasiMenit": 180,
+        "sisaKursi": 8,
+        "harga": 120000,
+        "pickup": "Slipi",
+        "dropoff": "Pasteur"
+      },
+      {
+        "id": "BW-02-0900",
+        "berangkat": "09:00",
+        "tiba": "12:20",
+        "durasiMenit": 200,
+        "sisaKursi": 2,
+        "harga": 140000,
+        "pickup": "Cawang",
+        "dropoff": "Dago"
+      },
+      {
+        "id": "BW-03-0900",
+        "berangkat": "08:00",
+        "tiba": "12:20",
+        "durasiMenit": 200,
+        "sisaKursi": 16,
+        "harga": 100000,
+        "pickup": "Cawang",
+        "dropoff": "Lw-panjang"
+      }
+    ]
+  },
+  {
+    "id": "JKT-BDG-0800-Blue",
+    "operator": "Blue Shuttle",
+    "origin": "Jakarta",
+    "destination": "Bandung",
+    "tanggal": "2025-09-28",
+    "departures": [
+      {
+        "id": "BW-01-0700",
+        "berangkat": "07:00",
+        "tiba": "10:00",
+        "durasiMenit": 180,
+        "sisaKursi": 8,
+        "harga": 120000,
+        "pickup": "Slipi",
+        "dropoff": "Pasteur"
+      },
+      {
+        "id": "BW-02-0900",
+        "berangkat": "09:00",
+        "tiba": "12:20",
+        "durasiMenit": 200,
+        "sisaKursi": 2,
+        "harga": 140000,
+        "pickup": "Cawang",
+        "dropoff": "Dago"
+      },
+      {
+        "id": "BW-03-0900",
+        "berangkat": "08:00",
+        "tiba": "12:20",
+        "durasiMenit": 200,
+        "sisaKursi": 16,
+        "harga": 100000,
+        "pickup": "Cawang",
+        "dropoff": "Lw-panjang"
+      }
+    ]
+  },
+  {
+    "id": "JKT-BDG-0800-Blue",
+    "operator": "Blue Shuttle",
+    "origin": "Jakarta",
+    "destination": "Bandung",
+    "tanggal": "2025-09-29",
+    "departures": [
+      {
+        "id": "BW-01-0700",
+        "berangkat": "07:00",
+        "tiba": "10:00",
+        "durasiMenit": 180,
+        "sisaKursi": 8,
+        "harga": 120000,
+        "pickup": "Slipi",
+        "dropoff": "Pasteur"
+      },
+      {
+        "id": "BW-02-0900",
+        "berangkat": "09:00",
+        "tiba": "12:20",
+        "durasiMenit": 200,
+        "sisaKursi": 2,
+        "harga": 140000,
+        "pickup": "Cawang",
+        "dropoff": "Dago"
+      },
+      {
+        "id": "BW-03-0900",
+        "berangkat": "08:00",
+        "tiba": "12:20",
+        "durasiMenit": 200,
+        "sisaKursi": 16,
+        "harga": 100000,
+        "pickup": "Cawang",
+        "dropoff": "Lw-panjang"
+      }
+    ]
+  },
+  {
+    "id": "JKT-BDG-0800-Blue",
+    "operator": "Blue Shuttle",
+    "origin": "Jakarta",
+    "destination": "Bandung",
+    "tanggal": "2025-09-30",
+    "departures": [
+      {
+        "id": "BW-01-0700",
+        "berangkat": "07:00",
+        "tiba": "10:00",
+        "durasiMenit": 180,
+        "sisaKursi": 8,
+        "harga": 120000,
+        "pickup": "Slipi",
+        "dropoff": "Pasteur"
+      },
+      {
+        "id": "BW-02-0900",
+        "berangkat": "09:00",
+        "tiba": "12:20",
+        "durasiMenit": 200,
+        "sisaKursi": 2,
+        "harga": 140000,
+        "pickup": "Cawang",
+        "dropoff": "Dago"
+      },
+      {
+        "id": "BW-03-0900",
+        "berangkat": "08:00",
+        "tiba": "12:20",
+        "durasiMenit": 200,
+        "sisaKursi": 16,
+        "harga": 100000,
+        "pickup": "Cawang",
+        "dropoff": "Lw-panjang"
+      }
+    ]
+  },
+
+  {
+    "id": "BDG-SMD-0900-TravelX",
+    "operator": "Bandung Express",
+    "origin": "Bandung",
+    "destination": "Sumedang",
+    "tanggal": "2025-09-26",
+    "departures": [
+      {
+        "id": "BB-22-1300",
+        "berangkat": "13:00",
+        "tiba": "16:20",
+        "durasiMenit": 200,
+        "sisaKursi": 1,
+        "harga": 150000,
+        "pickup": "Pasteur",
+        "dropoff": "terminal-sumedang"
+      },
+      {
+        "id": "BB-23-1400",
+        "berangkat": "13:00",
+        "tiba": "15:20",
+        "durasiMenit": 200,
+        "sisaKursi": 8,
+        "harga": 120000,
+        "pickup": "Lw-Panjang",
+        "dropoff": "terminal-sumedang"
+      }
+    ]
+  },
+  {
+    "id": "BDG-SMD-0900-TravelX",
+    "operator": "Bandung Express",
+    "origin": "Bandung",
+    "destination": "Sumedang",
+    "tanggal": "2025-09-27",
+    "departures": [
+      {
+        "id": "BB-22-1300",
+        "berangkat": "13:00",
+        "tiba": "16:20",
+        "durasiMenit": 200,
+        "sisaKursi": 1,
+        "harga": 150000,
+        "pickup": "Pasteur",
+        "dropoff": "terminal-sumedang"
+      },
+      {
+        "id": "BB-23-1400",
+        "berangkat": "13:00",
+        "tiba": "15:20",
+        "durasiMenit": 200,
+        "sisaKursi": 8,
+        "harga": 120000,
+        "pickup": "Lw-Panjang",
+        "dropoff": "terminal-sumedang"
+      }
+    ]
+  },
+  {
+    "id": "BDG-SMD-0900-TravelX",
+    "operator": "Bandung Express",
+    "origin": "Bandung",
+    "destination": "Sumedang",
+    "tanggal": "2025-09-28",
+    "departures": [
+      {
+        "id": "BB-22-1300",
+        "berangkat": "13:00",
+        "tiba": "16:20",
+        "durasiMenit": 200,
+        "sisaKursi": 1,
+        "harga": 150000,
+        "pickup": "Pasteur",
+        "dropoff": "terminal-sumedang"
+      },
+      {
+        "id": "BB-23-1400",
+        "berangkat": "13:00",
+        "tiba": "15:20",
+        "durasiMenit": 200,
+        "sisaKursi": 8,
+        "harga": 120000,
+        "pickup": "Lw-Panjang",
+        "dropoff": "terminal-sumedang"
+      }
+    ]
+  },
+  {
+    "id": "BDG-SMD-0900-TravelX",
+    "operator": "Bandung Express",
+    "origin": "Bandung",
+    "destination": "Sumedang",
+    "tanggal": "2025-09-29",
+    "departures": [
+      {
+        "id": "BB-22-1300",
+        "berangkat": "13:00",
+        "tiba": "16:20",
+        "durasiMenit": 200,
+        "sisaKursi": 1,
+        "harga": 150000,
+        "pickup": "Pasteur",
+        "dropoff": "terminal-sumedang"
+      },
+      {
+        "id": "BB-23-1400",
+        "berangkat": "13:00",
+        "tiba": "15:20",
+        "durasiMenit": 200,
+        "sisaKursi": 8,
+        "harga": 120000,
+        "pickup": "Lw-Panjang",
+        "dropoff": "terminal-sumedang"
+      }
+    ]
+  },
+  {
+    "id": "BDG-SMD-0900-TravelX",
+    "operator": "Bandung Express",
+    "origin": "Bandung",
+    "destination": "Sumedang",
+    "tanggal": "2025-09-30",
+    "departures": [
+      {
+        "id": "BB-22-1300",
+        "berangkat": "13:00",
+        "tiba": "16:20",
+        "durasiMenit": 200,
+        "sisaKursi": 1,
+        "harga": 150000,
+        "pickup": "Pasteur",
+        "dropoff": "terminal-sumedang"
+      },
+      {
+        "id": "BB-23-1400",
+        "berangkat": "13:00",
+        "tiba": "15:20",
+        "durasiMenit": 200,
+        "sisaKursi": 8,
+        "harga": 120000,
+        "pickup": "Lw-Panjang",
+        "dropoff": "terminal-sumedang"
+      }
+    ]
+  }
+]
