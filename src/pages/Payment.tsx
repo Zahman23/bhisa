@@ -17,9 +17,10 @@ import { useCountdown } from "../features/reservasi/hooks/useCountdown";
 import CopyField from "../features/payment/components/CopyField";
 import Accordion from "../features/payment/components/Accordion";
 import { BackButton } from "../components/BackButton";
-import Container from "../components/container";
+
 import SummaryPayment from "../features/payment/components/SummaryPayment";
 import { SummaryDrawer } from "../components/SummaryDrawer";
+import Wrapper from "../components/Wrapper";
 
 /* helpers */
 
@@ -280,7 +281,7 @@ export default function PaymentPage() {
         ];
 
   return (
-    <Container title="Bhisa Shuttle" description="Pembayaran">
+    <Wrapper title="Bhisa Shuttle" description="Pembayaran">
       <div className="sticky top-0 lg:relative bg-white lg:block py-2 flex justify-between">
         <BackButton />
         <SummaryDrawer>
@@ -462,6 +463,6 @@ export default function PaymentPage() {
           />
         </aside>
       </div>
-    </Container>
+    </Wrapper>
   );
 }

@@ -8,7 +8,7 @@ function App() {
     <div className="min-h-dvh flex flex-col bg-white text-gray-900">
       <Navbar />
       <main className="flex-1">
-        <div className="container px-4 py-6 mx-auto">
+        <div className=" px-4 py-6 mx-auto">
           <Outlet />
         </div>
       </main>

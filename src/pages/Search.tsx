@@ -21,7 +21,7 @@ import ResultsList from "../features/search/components/CardShuttle";
 import { useSearchResultsStore } from "../features/search/stores/searhResultStore";
 import { minDelay } from "../features/search/utils/minDelay";
 import ResultsSkeleton from "../features/search/components/resultSkeleton";
-import Container from "../components/container";
+import Wrapper from "../components/Wrapper";
 import { BackButton } from "../components/BackButton";
 import { SummaryDrawer } from "../components/SummaryDrawer";
 
@@ -62,7 +62,7 @@ export default function SearchPage() {
   }, [rows.length, setResults]);
 
   return (
-    <Container title="Pencarian Shuttle" description="pencarian">
+    <Wrapper title="Pencarian Shuttle" description="pencarian">
       <div className="sticky top-0 lg:relative bg-white lg:block py-2 flex justify-between">
         <BackButton />
         <SummaryDrawer>
@@ -114,6 +114,6 @@ export default function SearchPage() {
 
         {/* … render hasil pencarian berdasarkan params / state … */}
       </div>
-    </Container>
+    </Wrapper>
   );
 }

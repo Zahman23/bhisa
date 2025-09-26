@@ -14,7 +14,7 @@ import {
 import { useSearchResultsStore } from "../features/search/stores/searhResultStore";
 import { minDelay } from "../features/search/utils/minDelay";
 import ReservationLookupCard from "../components/form/ReservastionLookupCard";
-import Container from "../components/container";
+import Wrapper from "../components/Wrapper";
 
 const AREAS = [
   "Jakarta",
@@ -72,7 +72,7 @@ const Home = () => {
   }
 
   return (
-    <Container
+    <Wrapper
       title="Shuttle AntarKota Cepat & Aman"
       description="Pesan kursi, bayar aman, e-ticket dikirim ke email"
     >
@@ -108,7 +108,7 @@ const Home = () => {
 
         <div id="aria-live" className="sr-only" aria-live="polite" />
       </section>
-    </Container>
+    </Wrapper>
   );
 };
 

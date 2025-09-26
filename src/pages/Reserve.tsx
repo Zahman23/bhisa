@@ -4,7 +4,7 @@ import { useNavigate } from "react-router-dom";
 import { useReservationStore } from "../features/reservasi/stores/reservasiStore";
 import { useCountdown } from "../features/reservasi/hooks/useCountdown";
 
-import Container from "../components/container";
+import Wrapper from "../components/Wrapper";
 import { emailValid, waValid } from "../features/reservasi/utils/validation";
 import TextField from "../features/reservasi/components/form/TextField";
 import PhoneInput from "../features/reservasi/components/form/PhoneInput";
@@ -49,7 +49,7 @@ export default function ReservationPage() {
   useEffect(() => {
     hydrate();
   }, [hydrate]);
-  // desktop-first container
+  // desktop-first Wrapper
 
   // countdown
   const { expired, mm, ss } = useCountdown(deadline);
@@ -184,7 +184,7 @@ export default function ReservationPage() {
   }
 
   return (
-    <Container title="Bhisa Shuttle" description="Reserve">
+    <Wrapper title="Bhisa Shuttle" description="Reserve">
       <div className="sticky top-0 lg:relative bg-white lg:block py-2 flex justify-between">
         <BackButton />
         <SummaryDrawer>
@@ -407,6 +407,6 @@ export default function ReservationPage() {
         </aside>
       </div>
       {toast && <Toast message={toast.msg} type={toast.type} />}
-    </Container>
+    </Wrapper>
   );
 }

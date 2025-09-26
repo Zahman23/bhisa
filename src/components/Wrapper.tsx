@@ -1,12 +1,13 @@
-import React from "react";
+import { type PropsWithChildren } from "react";
 
-interface ContainerProps {
-  children: React.ReactNode;
-  title: string;
-  description: string;
-}
+// interface ContainerProps {
+//   children: React.ReactNode;
 
-const Container = ({ children, title, description }: ContainerProps) => {
+// }
+
+type WrapperProps = PropsWithChildren<{ title: string; description: string }>;
+
+const Wrapper = ({ children, title, description }: WrapperProps) => {
   return (
     <div className="min-h-screen bg-white">
       <header className="border-b">
@@ -35,4 +36,4 @@ const Container = ({ children, title, description }: ContainerProps) => {
   );
 };
 
-export default Container;
+export default Wrapper;
